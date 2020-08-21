@@ -6,7 +6,7 @@ In 1999, the term was used by Dave Thomas, co-author of the book The Pragmatic
 
 The point of a kata is to practice doing the SAME exercise mulutiple times until it becomes ingrained in your brain.  In other words, "Practice makes Perfect."  
 
-You will find in this repository a set of TDD katas.  THey are simple coding challenges that should be solved using Test Driven Development.  Make sure you follow the TDD cycle.  It's very easy to miss the point of TDD, so review this 3 minute video by Uncle Bob on TDD : 
+You will find in this repository a set of TDD katas.  They are simple coding challenges that should be solved using Test Driven Development.  Make sure you follow the TDD cycle.  It's very easy to miss the point of TDD, so review this 3 minute video by Uncle Bob on TDD : 
 https://www.youtube.com/watch?v=GvAzrC6-spQ
 
 After this, watch the longer 60 minute video on TDD by our Uncle Bob here : 
