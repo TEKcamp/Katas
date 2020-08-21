@@ -17,12 +17,12 @@ https://www.youtube.com/watch?v=qkblc5WRn-U
 Below is a synopsis of the TDD katas found in this exercise Note that the the code is done on the below website is in C#: 
 https://www.michael-whelan.net/code-katas-for-practicing-tdd/
 
-If you have practiced all of these katas for a couple of weeks, you may want to grab a copy of TDD, by Kent Beck.  
+If you have practiced all of these katas for a couple of weeks, you may want to grab a copy of TDD, by Kent Beck. But don't just buy it.  Make sure you read it too! 😉  
 https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
 
 This is the goto reference source that set the stage for TDD.  
 
-May the tests be with you, my young apprentices 😎
+May the tests be with you, my young apprentices... 😎
 
 
 
