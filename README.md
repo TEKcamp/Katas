@@ -22,6 +22,8 @@ https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
 
 This is the goto reference source that set the stage for TDD.  
 
+As you are doing TDD (writing tests,code,tests,code....) be sure to let that show in your commit history.  push your work often.  A clear sign that you are doing TDD properly is you are actually going back and forth between tests and code.  That should be reflected in your git commits.  
+
 May the tests be with you, my young apprentices... 😎
 
 
