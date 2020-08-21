@@ -12,8 +12,5 @@ https://www.youtube.com/watch?v=GvAzrC6-spQ
 After this, watch the longer 60 minute video on TDD by our Uncle Bob here : 
 https://www.youtube.com/watch?v=qkblc5WRn-U
 
-Note that the TDD katas in this repo are written in a language other than Java.  Feel free to use the code as a reference or inspiration.  You will be deriving the solution code using TDD in Java.  
-
-Before you tackle the exercises, below is a synopsis of the TDD katas found in this exercise : 
-
+Below is a synopsis of the TDD katas found in this exercise Note that the the code is done on the below website is in C#: 
 https://www.michael-whelan.net/code-katas-for-practicing-tdd/
